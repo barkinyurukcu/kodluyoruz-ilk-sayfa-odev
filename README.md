@@ -1,7 +1,8 @@
 # Kodluyoruz Front End Eğitimi
-## HTML Ödev 1
+## HTML Ödevleri
 ### İçerik:
-- index.html
+- index.html : Ödev 1
+- index2.html : Ödev 2
 - README.md
 
 **Hazırlayan:**
