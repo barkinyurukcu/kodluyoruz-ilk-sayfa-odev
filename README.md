@@ -1,2 +1,8 @@
-# kodluyoruz-ilk-sayfa-odev
-Kodluyoruz HTML Eğitimi Ödev 1
+# Kodluyoruz Front End Eğitimi
+## HTML Ödev 1
+### İçerik:
+- index.html
+- README.md
+
+**Hazırlayan:**
+*Barkın Yürükcü*
